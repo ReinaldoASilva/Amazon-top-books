@@ -206,7 +206,7 @@ Overall, "Unleash Your Path: Embrace the Journey" aims to inspire readers to emb
 
 Thank you for entrusting us with this project, and we look forward to a successful partnership.
 
-
+dataset source: https://www.kaggle.com/code/himanshukumar7079/amazon-top-50-bestselling-books-2009-2019-eda
 
 
 
