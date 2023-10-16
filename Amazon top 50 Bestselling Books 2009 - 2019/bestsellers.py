@@ -47,6 +47,7 @@ plt.show();
 
 # What kind of genres do we have?
 genre = bestsellers['Genre'].value_counts(normalize=True)
+
 # How is the Numerical data Distributed?
 for col in bestsellers.columns[2:5]:
     bestsellers[col].plot(kind = 'hist', bins=20, figsize=(16,5), edgecolor="#e28743",color ="#eab676")
@@ -60,8 +61,6 @@ for col in bestsellers.columns[2:5]:
 # Lowest Rated book
 lowestRatingBook = bestsellers[bestsellers["User Rating"] == bestsellers["User Rating"].min()]
 lowestRatingBook['Genre'].value_counts()
-
-#  The book you had the lowest assessment was The Casual Vacancy with 3.3
 
 
 # highest Rated book
@@ -113,10 +112,6 @@ for col in bestsellers.columns[2:5]:
 # Average mean of no fiction
 average_mean_no_fiction = bestsellers.groupby("Genre")["Price"].mean()
 print(average_mean_no_fiction)
-
-
-
-
 
 
 # Filter the dataframe by the genre "fiction"
