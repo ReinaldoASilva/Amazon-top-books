@@ -62,8 +62,6 @@ The analysis script performs the following tasks:
 
 ![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/b2f70f57-a466-4abc-85ea-22f15364999a)
 
-
-
 8. Finding the "Lowest User Rating Books"
 
 - Fiction - 1 / 3.3
@@ -86,8 +84,35 @@ The analysis script performs the following tasks:
 - Fiction - $10.85
 - Non Fiction - $14.84
 
-13. Finding the top 5 books per year in the "Fiction" genre
+13. Identifying books that were successful in multiple years 
 
-14. Identifying books that were successful in multiple years
+- The Help (Sucesso nos anos: 2009, 2010, 2011, 2011)
+- The Last Olympian (Percy Jackson and the Olympians, Book 5) (Sucesso nos anos: 2009, 2010)
+- The Hunger Games Trilogy Boxed Set (1) (Sucesso nos anos: 2011, 2012)
+- Goodnight, Goodnight Construction Site (Hardcover Books for Toddlers, Preschool Books for Kids) (Sucesso nos anos: 2012, 2013)
+- Oh, the Places You'll Go! (Sucesso nos anos: 2012, 2013, 2014, 2015, 2016, 2017, 2018)
+- The Very Hungry Caterpillar (Sucesso nos anos: 2013, 2014, 2015, 2016, 2017)
+- Brown Bear, Brown Bear, What Do You See? (Sucesso nos anos: 2017, 2019)
+- Dog Man: Brawl of the Wild: From the Creator of Captain Underpants (Dog Man #6) (Sucesso nos anos: 2018, 2019)
+
+
+14. Age group that had the most books.
+
+- Age Group: From 8 years
+  - Numbers of Books: 22
+
+- Age Group: From 3 years
+  - Numbers of Books: 6
+
+- Age Group: From 10 years
+  - Numbers of Books: 5
+
+- Age Group: From 18 years
+  - Numbers of Books: 4
+
+- Age Group: From 13 years
+  - Numbers of Books: 1
+
+
 
 ## Insight
