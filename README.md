@@ -161,9 +161,7 @@ The analysis script performs the following tasks:
 
 Name: Unleash Your Path- Embrace the Journey
 
-
-
-<a href="https://github.com/ReinaldoASilva/Amazon-top-books/blob/main/Unleash-Your-Path-Embrace-the-Journey.pdf" target="_blank">PDF.</a>
+[Clique aqui para visualizar o arquivo PDF](/Users/reinaldoblack/Documents/documentos/github/Amazon-top-books/Unleash-Your-Path-Embrace-the-Journey.pdf)
 
 
 ## Insight
