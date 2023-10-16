@@ -24,16 +24,16 @@ The dataset used in this analysis is available in the file `bestsellers with cat
 
 The analysis script performs the following tasks:
 
-1. Loading and understanding the dataset
+1. "Loading and Understanding the Dataset"
 
-2. Handling null values
+2. Handling "Null Values".
 
-3. Visualizing the distribution of genres
+3. Visualizing the "Distribution of Genres".
 
 ![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/1d2a7ce4-0af9-4ca6-8013-1cae42f3a7b5)
 
 
-4. Analyzing the frequenci data distribution
+4. Analyzing the "Frequenci data Distribution".
 
 ![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/958688a9-11a8-4b12-9916-4755f12dc7df)
 
@@ -41,11 +41,11 @@ The analysis script performs the following tasks:
 
 ![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/3a483540-f8d0-4d21-a8bc-51d435e8b36e)
 
-5. Analyzing the changes in average user rating, total reviews, and average price over the years
+5. Analyzing the changes in "Average User Rating", "Total Reviews", and "Average Price Over the Years".
 
 ![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/d52daaf4-7135-40fe-8ad8-c7bcc9c1a3b2)
 
-6. Visualizing the genre-wise distribution of data
+6. Visualizing the "genre-wise distribution" of data
 
 ![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/5b3d82ec-1513-40a4-bb80-629c4dd7217c)
 
@@ -54,7 +54,7 @@ The analysis script performs the following tasks:
 ![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/efd794d2-2444-44c5-9c5a-e26c6262ae62)
 
 
-7. Visualizing the year-wise and genre-wise distribution of selected columns
+7. Visualizing the "year-wise and genre-wise distribution" of selected columns
 
 ![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/22b00d7d-baf9-43b4-9dbe-952351860050)
 
@@ -64,19 +64,30 @@ The analysis script performs the following tasks:
 
 
 
-8. Finding the lowest and highest rated books
+8. Finding the "Lowest User Rating Books"
 
+- Fiction - 1 / 3.3
 
-9. Identifying books with the maximum and minimum reviews
+9. Finding the "Highest User Rating Books"
 
+- Fiction - 22 / 4.9
+ - Non Fiction - 6 / 4.9
 
+10. Identifying books with the "Minimum Reviews".
 
+- Non Fiction - 1 / 37
 
+11. Identifying books with the "Maximum Reviews"
 
-10. Calculating the average price for the "Non-Fiction" genre
+- Fiction - 1 / 87841
 
-11. Finding the top 5 books per year in the "Fiction" genre
+12. Calculating the average price for the "Non-Fiction" genre
 
-12. Identifying books that were successful in multiple years
+- Fiction - $10.85
+- Non Fiction - $14.84
+
+13. Finding the top 5 books per year in the "Fiction" genre
+
+14. Identifying books that were successful in multiple years
 
 ## Insight
