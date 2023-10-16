@@ -163,7 +163,7 @@ Name: Unleash Your Path- Embrace the Journey
 
 
 
-<a href="/Users/reinaldoblack/Documents/documentos/github/Amazon-top-books/Unleash-Your-Path- Embrace-the-Journey.pdf" target="_blank">PDF.</a>
+<a href="https://github.com/ReinaldoASilva/Amazon-top-books/blob/main/Unleash-Your-Path-Embrace-the-Journey.pdf" target="_blank">PDF.</a>
 
 
 ## Insight
