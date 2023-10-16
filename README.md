@@ -48,13 +48,13 @@ The analysis script performs the following tasks:
 ![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/efe5b8ff-cb06-4663-bf8a-178b4f8aeb4c)
 
 
-6. Visualizing the "genre-wise distribution" of data
+6. Visualizing the "Genre-Wise Distribution" of data
 
-![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/5b3d82ec-1513-40a4-bb80-629c4dd7217c)
+![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/6daa2e6b-64b3-40c6-83ad-eee109d9458d)
 
-![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/4968614f-a4bf-49d5-beb6-a41e25b65fc4)
+![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/da3e0f12-81d7-45f6-a9c8-960a4f3252d0)
 
-![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/efd794d2-2444-44c5-9c5a-e26c6262ae62)
+![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/ef2206b6-4bb3-452f-939a-8a4bdadb25cf)
 
 
 7. Visualizing the "Year-Wise and Genre-Wise Distribution" of selected columns
