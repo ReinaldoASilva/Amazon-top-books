@@ -5,7 +5,7 @@ import seaborn as sns
 
 
 # Visualize dataset
-bestsellers = pd.read_csv('/Users/reinaldoblack/Documents/documentos/github/Amazon top 50 Bestselling Books 2009 - 2019/bestsellers with categories.csv')
+bestsellers = pd.read_csv('/Users/reinaldoblack/Documents/documentos/github/Amazon-top-books/Amazon top 50 Bestselling Books 2009 - 2019/bestsellers with categories.csv')
 
 # Understanding the dataset
 
@@ -59,6 +59,8 @@ for col in bestsellers.columns[2:5]:
 
 # Lowest Rated book
 lowestRatingBook = bestsellers[bestsellers["User Rating"] == bestsellers["User Rating"].min()]
+lowestRatingBook['Genre'].value_counts()
+
 #  The book you had the lowest assessment was The Casual Vacancy with 3.3
 
 
@@ -69,6 +71,7 @@ highRatingBook['Genre'].value_counts()
 
 # Maximum Reviews for a book
 bestsellers[bestsellers["Reviews"] == bestsellers["Reviews"].max()]
+
 
 # Minimum Reviews for a book
 bestsellers[bestsellers["Reviews"] == bestsellers["Reviews"].min()]
@@ -113,6 +116,9 @@ print(average_mean_no_fiction)
 
 
 
+
+
+
 # Filter the dataframe by the genre "fiction"
 fiction_df = bestsellers[bestsellers["Genre"] == "Fiction"]
 
@@ -142,6 +148,10 @@ for ano, livros in top5_livros_por_ano:
     print()
 
 
+
+
+
+
 # Encontrar os livros repetidos
 anos_sucesso = {}
 
@@ -156,25 +166,6 @@ print("Livros repetidos em mais de um ano:")
 for livro, anos in anos_sucesso.items():
     if len(anos) > 1:
         print(f"Livro: {livro} (Sucesso nos anos: {', '.join(map(str, anos))})")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Dicionário para armazenar os top 5 livros por ano
 summary = {
@@ -557,12 +548,6 @@ temas_contagem = top5_df.groupby("Genre").size().sort_values(ascending=False)
 tema_ideal = temas_contagem.index[0]
 
 print(f"O tema mais ideal para lançar um livro com base nos top 5 livros mais vendidos em todos os anos é: {tema_ideal}")
-
-
-
-
-
-
 
 
 
