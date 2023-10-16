@@ -169,6 +169,7 @@ Name: Unleash Your Path- Embrace the Journey
 [Download in the Google Drive](https://drive.google.com/file/d/1pm0uhfU9drKcnZ8MU8KC2CksnfV8i_Qg/view?usp=sharing)
 
 ## Insight
+
 Proposal for Book Launch: Conclusion
 
 In conclusion, after conducting thorough research and analysis for the upcoming book launch, we have identified valuable insights to guide our strategy as a publishing house. As requested, we focused on identifying the ideal genre and target audience to maximize reach and sales potential.
