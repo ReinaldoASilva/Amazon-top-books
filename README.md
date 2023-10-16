@@ -45,7 +45,8 @@ The analysis script performs the following tasks:
 
 5. Analyzing the changes in "Average User Rating", "Total Reviews", and "Average Price Over the Years".
 
-![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/d52daaf4-7135-40fe-8ad8-c7bcc9c1a3b2)
+![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/efe5b8ff-cb06-4663-bf8a-178b4f8aeb4c)
+
 
 6. Visualizing the "genre-wise distribution" of data
 
