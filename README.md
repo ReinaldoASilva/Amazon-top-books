@@ -160,9 +160,12 @@ The analysis script performs the following tasks:
 19. Book created from the insghts of this project.
 
 Name: Unleash Your Path- Embrace the Journey
+
 <p align="center">
-  <img src="/Users/reinaldoblack/Documents/documentos/github/Amazon-top-books/Unleash-Your-Path-Embrace-the-Journey.pdf" width="1200" title="hover text">
+  <img src="/Users/reinaldoblack/Documents/documentos/github/Amazon-top-books/Capa Book.png" width="1200" title="hover text">
 </p>
 
+
+[Download in the Google Drive](https://drive.google.com/file/d/1MyCiBqduQ5tW_Mng3JmXiDVhKDq5tg2o/view?usp=sharing)
 
 ## Insight
