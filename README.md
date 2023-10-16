@@ -184,9 +184,9 @@ Furthermore, we identified common themes and elements in the successful books "O
 
 In summary, our research and analysis have provided valuable insights for the upcoming book launch. By strategically aligning the genre, target audience, pricing, and storytelling approach, we aim to maximize the book's appeal and commercial success. We are excited to collaborate with the esteemed publishing house in bringing this captivating book to the market and inspiring young readers on their own unique journeys of self-discovery and growth.
 
-- The suggested name of the book was "Unleash Your Path- Embrace the Journey".
+- ##### The suggested name of the book was "Unleash Your Path- Embrace the Journey".
 
-- The central message of book "Unleash Your Path- Embrace the Journey".
+- ##### The central message of book "Unleash Your Path- Embrace the Journey".
 
 The central message of the book "Unleash Your Path: Embrace the Journey" is to inspire individuals to embrace their personal journeys of self-discovery, growth, and fulfillment. It encourages readers to tap into their inner potential, overcome obstacles, and live a purposeful and authentic life.
 
