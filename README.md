@@ -59,11 +59,14 @@ The analysis script performs the following tasks:
 
 7. Visualizing the "Year-Wise and Genre-Wise Distribution" of selected columns
 
-![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/22b00d7d-baf9-43b4-9dbe-952351860050)
+![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/9a1ec0ae-01ff-4a19-94f9-b6e559f2f664)
 
-![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/e5f36167-fb65-4fce-a837-cc1efd703d21)
+![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/6f924792-fdc4-40ab-a3e2-8a41081140b6)
 
-![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/b2f70f57-a466-4abc-85ea-22f15364999a)
+![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/3171189f-7e65-468c-b4f2-732ba3b78024)
+
+
+
 
 8. Finding the "Lowest User Rating Books"
 
