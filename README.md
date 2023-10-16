@@ -30,7 +30,8 @@ The analysis script performs the following tasks:
 
 3. Visualizing the "Distribution of Genres".
 
-![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/1d2a7ce4-0af9-4ca6-8013-1cae42f3a7b5)
+![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/8a907c7b-5e47-4c74-8e2b-536221c678a4)
+
 
 
 4. Analyzing the "Frequenci data Distribution".
