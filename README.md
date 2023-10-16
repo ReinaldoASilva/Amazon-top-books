@@ -162,7 +162,7 @@ The analysis script performs the following tasks:
 Name: Unleash Your Path- Embrace the Journey
 
 <p align="center">
-  <img src="/Users/reinaldoblack/Documents/documentos/github/Amazon-top-books/capa.png" width="1200" title="hover text">
+  <img src="capa.png" width="1200" title="hover text">
 </p>
 
 
