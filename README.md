@@ -32,15 +32,16 @@ The analysis script performs the following tasks:
 
 ![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/8a907c7b-5e47-4c74-8e2b-536221c678a4)
 
-
-
 4. Analyzing the "Frequenci data Distribution".
 
-![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/958688a9-11a8-4b12-9916-4755f12dc7df)
+![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/dd2c99ab-69a4-45bc-9eb4-f4ee15d6949f)
 
-![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/ae46e765-0287-4335-9154-408ab21611ca)
 
-![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/3a483540-f8d0-4d21-a8bc-51d435e8b36e)
+![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/f1c4a7ac-dc39-4dd5-a740-8818cc98ea10)
+
+
+![image](https://github.com/ReinaldoASilva/Amazon-top-books/assets/109931715/ee082df4-6360-4ae2-b4fa-47a470ffb821)
+
 
 5. Analyzing the changes in "Average User Rating", "Total Reviews", and "Average Price Over the Years".
 
